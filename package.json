@@ -45,7 +45,7 @@
   },
   "dependencies": {
     "@types/cors": "^2.8.6",
-    "aws-sdk": "^2.703.0",
+    "aws-sdk": "^2.814.0",
     "bcryptjs": "^2.4.3",
     "chalk": "^4.0.0",
     "cors": "^2.8.5",
